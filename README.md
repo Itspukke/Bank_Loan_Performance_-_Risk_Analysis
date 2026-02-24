@@ -1,4 +1,4 @@
-# 🏦 Bank Loan Performance & Risk Analysis | SQL + Power BI
+# 🏦 Bank Loan Performance & Risk Analysis 
 
 ![Overview Dashboard](images/overview_dashboard.png)
 
