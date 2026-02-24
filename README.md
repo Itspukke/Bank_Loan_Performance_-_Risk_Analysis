@@ -191,7 +191,9 @@ The structure and KPIs align with real-world banking analytics frameworks.
 
 
 
-# 👨🏽‍💻 Author
+# 📬 Contact
+**Tshedza Tshipuke**  
+Aspiring Data Analyst  
 
-Data Analyst | SQL | Power BI | DAX | Python  
-Focused on financial analytics, risk insights, and business intelligence.
+- GitHub: https://github.com/Itspukke 
+- LinkedIn: www.linkedin.com/in/tshedza-tshipuke-468516119
