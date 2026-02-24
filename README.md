@@ -1,6 +1,6 @@
 # 🏦 Bank Loan Performance & Risk Analysis 
 
-![Overview Dashboard](images/overview_dashboard.png)
+![Overview Dashboard](Power_BI/bank_loan_overview.png)
 
 ---
 
