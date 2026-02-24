@@ -75,7 +75,7 @@ The goal was to build an interactive dashboard that enables management to:
 
 ## 1️⃣ Overview Dashboard
 
-![Overview Dashboard](images/overview_dashboard.png)
+![Overview Dashboard](Power_BI/bank_loan_overview.png)
 
 Highlights:
 
@@ -89,7 +89,7 @@ Highlights:
 
 ## 2️⃣ Risk & Performance Summary
 
-![Summary Dashboard](images/summary_dashboard.png)
+![Overview Dashboard](Power_BI/bank_loan_summary.png)
 
 Highlights:
 
